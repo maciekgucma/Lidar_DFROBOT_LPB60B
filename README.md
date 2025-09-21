@@ -1,5 +1,5 @@
-# Lidar_DFROBOT_LPB60B
-Simple readout for LBP60B
+# Lidar DFROBOT LPB60B
+Simple readout for LBP60B rangefinger.  
 This file can contribute to lib creation
 Sensor for reading distance based ona  laser rangefinder
 https://www.dfrobot.com/product-2730.html
